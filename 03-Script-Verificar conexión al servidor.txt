@@ -1,8 +1,0 @@
-Ir al pestaña EXEC del Container y ejecutar linea a línea:
-
-ls -ltr
-cd /opt/mssql-tools18/bin
-./sqlcmd -S localhost -U sa -P SuperPWD123! -C
-select physical_database_name from sys.databases;
-GO
-exit
