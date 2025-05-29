@@ -8,3 +8,5 @@ Diseño de un almacen central de datos con modelado de dimensiones y hechos para
    Warehouse.
    
 3.  Modelo ER: Modelo Entidad Relación de Copo de Nieve del Data Warehouse.
+
+![Captura de pantalla de la aplicación](C:\Users\FAMILIA GIL GOMEZ\Documents\SQL/diagrama_er.png)
